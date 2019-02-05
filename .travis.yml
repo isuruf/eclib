@@ -4,7 +4,7 @@ os:
   - linux
 
 osx_image: xcode6.4
-dist: trusty
+dist: xenial
 
 env:
     - CONFIGURE_OPTS=""
